@@ -1,0 +1,3 @@
+[submodule "uBlacklist-subscription-compilation"]
+	path = uBlacklist-subscription-compilation
+	url = https://github.com/eallion/uBlacklist-subscription-compilation.git
