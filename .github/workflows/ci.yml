@@ -47,7 +47,7 @@ jobs:
       - name: Commit files
         uses: EndBug/add-and-commit@v10
         with:
-          message: "ci(build): update submodule at ${{ env.CURRENT_TIME }}"
+          message: "ci: update submodule at ${{ env.CURRENT_TIME }}"
           committer_name: 'github-actions[bot]'
           committer_email: 'github-actions[bot]@users.noreply.github.com'
           add: |
