@@ -1,0 +1,54 @@
+name: auto update
+
+on:
+  push:
+  schedule:
+    - cron: '0 8 * * 1'
+  
+jobs:
+  push:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+          submodules: recursive
+      - name: Merge result
+        run: |
+          cat ./uBlacklist-subscription-compilation/uBlacklist.txt myblacklist.txt > uBlacklist.txt
+          echo "CURRENT_TIME=$(TZ=UTC-8 date +'%Y-%m-%d %T %z')" >> $GITHUB_ENV      
+      - name: Commit files
+        uses: EndBug/add-and-commit@v10
+        with:
+          message: "ci(build): update push at ${{ env.CURRENT_TIME }}"
+          committer_name: 'github-actions[bot]'
+          committer_email: 'github-actions[bot]@users.noreply.github.com'
+          add: |
+            'uBlacklist.txt'
+  
+  schedule:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+          submodules: recursive
+      - name: Wpdate modules
+        run: |
+          git submodule update --remote --recursive --force
+      - name: Merge result
+        run: |
+          cat ./uBlacklist-subscription-compilation/uBlacklist.txt myblacklist.txt > uBlacklist.txt
+          echo "CURRENT_TIME=$(TZ=UTC-8 date +'%Y-%m-%d %T %z')" >> $GITHUB_ENV 
+      - name: Commit files
+        uses: EndBug/add-and-commit@v10
+        with:
+          message: "ci(build): update submodule at ${{ env.CURRENT_TIME }}"
+          committer_name: 'github-actions[bot]'
+          committer_email: 'github-actions[bot]@users.noreply.github.com'
+          add: |
+            'uBlacklist.txt'
