@@ -27492,5 +27492,6 @@ zzyyo.com
 @*://*.perplexity.ai/*
 @*://*.copilot.microsoft.com/*
 @*://*.copilot.github.com/*
-@*://*.npmmirror.com/**://sj.qq.com/*
+@*://*.npmmirror.com/*
+*://sj.qq.com/*
 @*://tieba.baidu.com/*
