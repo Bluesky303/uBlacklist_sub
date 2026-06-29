@@ -27493,5 +27493,6 @@ zzyyo.com
 @*://*.copilot.microsoft.com/*
 @*://*.copilot.github.com/*
 @*://*.npmmirror.com/*
+*://*.baidu.cn
 *://sj.qq.com/*
 @*://tieba.baidu.com/*
