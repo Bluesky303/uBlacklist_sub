@@ -17,8 +17,8 @@ jobs:
           submodules: recursive
       - name: Merge result
         run: |
-          cat ./uBlacklist-subscription-compilation/uBlacklist.txt myblacklist.txt > uBlacklist.txt
-          echo "CURRENT_TIME=$(TZ=UTC-8 date +'%Y-%m-%d %T %z')" >> $GITHUB_ENV      
+          { cat ./uBlacklist-subscription-compilation/uBlacklist.txt; echo ""; cat myblacklist.txt; } > uBlacklist.txt
+          echo "CURRENT_TIME=$(TZ=UTC-8 date +'%Y-%m-%d %T %z')" >> $GITHUB_ENV
       - name: Commit files
         uses: EndBug/add-and-commit@v10
         with:
@@ -42,8 +42,8 @@ jobs:
           git submodule update --remote --recursive --force
       - name: Merge result
         run: |
-          cat ./uBlacklist-subscription-compilation/uBlacklist.txt myblacklist.txt > uBlacklist.txt
-          echo "CURRENT_TIME=$(TZ=UTC-8 date +'%Y-%m-%d %T %z')" >> $GITHUB_ENV 
+          { cat ./uBlacklist-subscription-compilation/uBlacklist.txt; echo ""; cat myblacklist.txt; } > uBlacklist.txt
+          echo "CURRENT_TIME=$(TZ=UTC-8 date +'%Y-%m-%d %T %z')" >> $GITHUB_ENV
       - name: Commit files
         uses: EndBug/add-and-commit@v10
         with:
