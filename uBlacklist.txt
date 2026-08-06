@@ -27496,5 +27496,7 @@ zzyyo.com
 *//*.m12333.cn/*
 *://*.baidu.cn
 *://*.sbhrss.com/*
+*://m12333.cn/*
+*://si12333.cn/*
 *://sj.qq.com/*
 @*://tieba.baidu.com/*
