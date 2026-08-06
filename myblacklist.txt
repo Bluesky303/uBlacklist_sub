@@ -1,3 +1,5 @@
+*//*.m12333.cn/*
 *://*.baidu.cn
+*://*.sbhrss.com/*
 *://sj.qq.com/*
 @*://tieba.baidu.com/*
