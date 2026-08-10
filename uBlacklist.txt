@@ -1,4 +1,4 @@
-! Last modified: 2026-06-23 03:00:55 +0800
+! Last modified: 2026-08-04 01:38:24 +0800
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
 *://*.005i.com/*
@@ -973,7 +973,6 @@
 *://*.586nwh.cn/*
 *://*.588c2ts.cn/*
 *://*.58efu.com/*
-*://*.58hengqi.com/*
 *://*.58huangye.com/*
 *://*.58minglu.cn/*
 *://*.58pan.cn/*
@@ -1479,7 +1478,6 @@
 *://*.aaamhh.com/*
 *://*.aaggob.cn/*
 *://*.aaiv.net/*
-*://*.aalahty.cn/*
 *://*.aalaicc.com/*
 *://*.aasou.cc/*
 *://*.abadisurvey.com/*
@@ -2787,7 +2785,6 @@
 *://*.chatel-taxi.buzz/*
 *://*.chatgpt.com/*
 *://*.chatsimple.ai/*
-*://*.chattaboo.com/*
 *://*.chazuonet.com/*
 *://*.cheap-smoke.buzz/*
 *://*.cheapaprtments.buzz/*
@@ -3235,7 +3232,6 @@
 *://*.cxygjd.com/*
 *://*.cxymm.net/*
 *://*.cxyread.cc/*
-*://*.cxywk.com/*
 *://*.cxyy0429.cn/*
 *://*.cxyzd.xyz/*
 *://*.cxyzjd.com/*
@@ -6539,7 +6535,6 @@
 *://*.kukasc.com/*
 *://*.kundelu.cn/*
 *://*.kunpengjy.cn/*
-*://*.kunyuyuan.com/*
 *://*.kupaosuda.com/*
 *://*.kupid.ai/*
 *://*.kuqistudio.com/*
@@ -8511,7 +8506,6 @@
 *://*.pyk696.com/*
 *://*.pyk868.com/*
 *://*.pyn889.com/*
-*://*.pyn9.com/*
 *://*.pyquestions.com/*
 *://*.python-stack.de/*
 *://*.python.engineering/*
@@ -9406,7 +9400,6 @@
 *://*.sduqyxv.cn/*
 *://*.sdwanbo.com/*
 *://*.sdxinjia.com/*
-*://*.sdxinli.org/*
 *://*.sdxlturbo.ai/*
 *://*.sdyujinji.com/*
 *://*.sdzbyzjx.com/*
@@ -9874,7 +9867,6 @@
 *://*.sqp.buzz/*
 *://*.squadguide.net/*
 *://*.sqwudong.com/*
-*://*.sqzlsy.cn/*
 *://*.sr-sc.com/*
 *://*.sr0csj.cn/*
 *://*.sr0lsgr.cn/*
@@ -10463,7 +10455,6 @@
 *://*.tomatoesweb.com/*
 *://*.tomcat.org.cn/*
 *://*.toms2013.com/*
-*://*.tomzx.com/*
 *://*.tongbu.com/*
 *://*.tongfengqu.com/*
 *://*.tonghejiu.com/*
@@ -12560,7 +12551,6 @@
 *://*.zjy56.com/*
 *://*.zjyeya.com/*
 *://*.zjyylk.com/*
-*://*.zjzmxny.com/*
 *://*.zjzyfm.com/*
 *://*.zkaf4d.cn/*
 *://*.zkjdz.cn/*
@@ -13270,7 +13260,6 @@
 *://hwl.pornl.co/*
 *://hxcm576.com/*  
 *://hyznkj.com/*
-*://hz-heng-li.com/*
 *://hzhanshu.com/*
 *://hzhcontrols.com/*
 *://hzhjjx.com/*
@@ -13993,7 +13982,6 @@
 *://wkmm.cc/*
 *://wkto.cc/*
 *://wncwebsolutions.com/*
-*://wntzx.cn/*
 *://world.taobao.com/*
 *://wospxi.com/*  
 *://wpsousuo.cn/*
@@ -14116,7 +14104,6 @@
 *://www.52wbt.com/*
 *://www.5339901.com/*
 *://www.5339902.com/*
-*://www.54jqr.com/*
 *://www.5577.com/*
 *://www.55jf.com/*
 *://www.55wenda.top/*
@@ -14232,11 +14219,9 @@
 *://www.ajpsp.com/*
 *://www.aliyun.com/*
 *://www.aliyun.com/sswd/*
-*://www.aliyunyh.com/*
 *://www.alliance-a.net/*  
 *://www.amazon.com/*
 *://www.amcpp.com/*
-*://www.amhnn.com/*
 *://www.amoyman.com/*
 *://www.ancii.com/*
 *://www.andarlyn.com/*  
@@ -14312,7 +14297,6 @@
 *://www.blybx.com/*  
 *://www.bmdgi.com/*
 *://www.bnee.net/*
-*://www.bobofun.com/*
 *://www.boilgame.com/*  
 *://www.bokcms.com/*
 *://www.bombsession.com/*  
@@ -14681,7 +14665,6 @@
 *://www.hhfumeijia.com/*  
 *://www.hibbba.com/*
 *://www.hisour.com/*
-*://www.histrend.hk/*
 *://www.hjt1.org/*  
 *://www.hlgeyy.com/*  
 *://www.hltv.org/*  
@@ -15067,7 +15050,6 @@
 *://www.pe0573.com/*
 *://www.peanutmidwest.com/*  
 *://www.pesyz.com/*  
-*://www.phoenixups.com/*
 *://www.pianshen.com/*
 *://www.picciutofamily.buzz/*  
 *://www.piemidia.com/*  
@@ -15107,7 +15089,6 @@
 *://www.qqtn.com/*
 *://www.qqxmail.com/*
 *://www.qt6.com/*
-*://www.qtcamp.com/*
 *://www.qu02.com/*
 *://www.quanmaimai.com/*
 *://www.quanmama.com/*
@@ -15118,7 +15099,6 @@
 *://www.qxqpw.net/*
 *://www.qyqyxx.com/*  
 *://www.qyxychem.com/*  
-*://www.r41z.com/*
 *://www.rcmdc.com.ua/*  
 *://www.rcmingliu.com/*  
 *://www.rejoiceblog.com/*
@@ -15192,7 +15172,6 @@
 *://www.slmnqq.com/*  
 *://www.slyujia.com/*  
 *://www.smokinjoescigarettes.com/*  
-*://www.smpchome.com/*
 *://www.snepfsu-nancy-metz.net/*  
 *://www.sobyte.net/*  
 *://www.sociablelabs.com/*
@@ -15283,7 +15262,6 @@
 *://www.tlyhc.0475dm.com/
 *://www.tmall.com/*
 *://www.tmcul.com/*  
-*://www.tonganw.com/*
 *://www.tongfengqu.com/*
 *://www.toppxbb.com/*  
 *://www.torrent-outpost.com/*  
@@ -15607,7 +15585,6 @@
 *://www.zyncschool.com/*
 *://www.zzbhg.com/*
 *://www.zzchangsheng.com/*  
-*://www.zzchenhui.com/*
 *://www.zzdeyin.com/*
 *://www.zzsqkb.com/*
 *://www.zzthmu.com/*
@@ -15618,7 +15595,6 @@
 *://wxzjmy.com/*
 *://wyfx.cc/*
 *://x1rdl.com/*  
-*://x4x2.com/*
 *://xbeibeix.com/*
 *://xbto.cc/*
 *://xbuba.com/questions/*
